@@ -15,9 +15,10 @@ turn on developer mode in the top right hand corner
 
 press **"Load Unpacked"**
 
-navigate to 
+navigate to the folder where you have the repo installed then go to 
 
 `.output -> mv3 -> select this folder`
+
 (on macOS the `.output` might not be visible because it's a "hidden" file so you need to press `command + shift + .` to show hidden files)
 
 after installing
