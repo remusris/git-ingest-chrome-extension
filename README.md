@@ -1,6 +1,6 @@
 # set up
 
-if you don't have npm installed go install npm
+if you don't have `npm` installed go install `npm`
 
 then install `pnpm` 
 
