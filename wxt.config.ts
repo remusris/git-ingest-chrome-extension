@@ -14,10 +14,10 @@ export default defineConfig({
       "change-github-link-to-gitingest-link": {
         description: "Change GitHub link to Gitingest link",
         suggested_key: {
-          default: "Alt+Shift+L",
-          mac: "Alt+Shift+L",
-          windows: "Alt+Shift+L",
-          linux: "Alt+Shift+L",
+          default: "Ctrl+Shift+M",
+          mac: "Command+Shift+M",
+          windows: "Ctrl+Shift+M",  // Changed from Control to Ctrl
+          linux: "Ctrl+Shift+M"     // Changed from Control to Ctrl
         },
         global: true,
       },
