@@ -19,7 +19,7 @@ navigate to the folder where you have the repo installed then go to
 
 `.output -> mv3 -> select this folder`
 
-(on macOS the `.output` might not be visible because it's a "hidden" file so you need to press `command + shift + .` to show hidden files)
+(on macOS the `.output` might not be invisible because it's a "hidden" file so you need to press `command + shift + .` to show hidden files)
 
 after installing
 
